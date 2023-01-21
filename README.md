@@ -1,3 +1,5 @@
+![Image](banner-large.png)
+
 # Nafees Ashker Sakir
 #### *A Full Stack Software Developer & Designer*
 
