@@ -11,7 +11,7 @@ I do believe in the concept of engineering. The art of implementing traditional 
 
 #### Software Development 
 
-![WEB](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![DESKTOP]() ![devOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![WEB](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![devOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 #### Development Languages
 
