@@ -1,6 +1,6 @@
 ![Image](banner-large.png)
 
-# Sakir Ashker
+# Nafees Ashker Sakir
 
 ### **Software Developer & Designer**
 React | Node.js | Golang | DevOps 
